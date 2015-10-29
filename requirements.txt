@@ -12,4 +12,3 @@ itsdangerous==0.24
 mercurial==3.3.3
 numpy==1.10.0
 python-editor==0.4
-wsgiref==0.1.2
